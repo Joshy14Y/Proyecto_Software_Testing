@@ -1,0 +1,521 @@
+[
+  {
+    "id": 1,
+    "price": 200000,
+    "title": "Cozy Apartment in Downtown",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 80
+  },
+  {
+    "id": 2,
+    "price": "$350,000",
+    "title": "Luxury Villa with Ocean View",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 300
+  },
+  {
+    "id": 3,
+    "price": "$120,000",
+    "title": "Stylish Loft in Arts District",
+    "rooms": 1,
+    "bathrooms": 1,
+    "squareMeters": 60
+  },
+  {
+    "id": 4,
+    "price": "$500,000",
+    "title": "Spacious Family House with Garden",
+    "rooms": 5,
+    "bathrooms": 4,
+    "squareMeters": 400
+  },
+  {
+    "id": 5,
+    "price": "$250,000",
+    "title": "Modern Condo with City View",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 120
+  },
+  {
+    "id": 6,
+    "price": "$180,000",
+    "title": "Charming Cottage in the Countryside",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+  },
+  {
+    "id": 7,
+    "price": "$400,000",
+    "title": "Elegant Mansion with Pool",
+    "rooms": 6,
+    "bathrooms": 5,
+    "squareMeters": 600
+  },
+  {
+    "id": 8,
+    "price": "$150,000",
+    "title": "Renovated Historic Townhouse",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+  },
+  {
+    "id": 9,
+    "price": "$280,000",
+    "title": "Penthouse with Skyline Views",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 200
+  },
+  {
+    "id": 10,
+    "price": "$220,000",
+    "title": "Coastal Bungalow with Beach Access",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 180
+  },
+  {
+    "id": 11,
+    "price": "$380,000",
+    "title": "Rustic Farmhouse with Vineyard",
+    "rooms": 5,
+    "bathrooms": 4,
+    "squareMeters": 350
+  },
+  {
+    "id": 12,
+    "price": "$130,000",
+    "title": "Compact Studio in Urban Area",
+    "rooms": 1,
+    "bathrooms": 1,
+    "squareMeters": 40
+  },
+  {
+    "id": 13,
+    "price": "$320,000",
+    "title": "Contemporary Townhome with Rooftop Deck",
+    "rooms": 3,
+    "bathrooms": 3,
+    "squareMeters": 180
+  },
+  {
+    "id": 14,
+    "price": "$270,000",
+    "title": "Mountain Retreat with Hiking Trails",
+    "rooms": 4,
+    "bathrooms": 2,
+    "squareMeters": 250
+  },
+  {
+    "id": 15,
+    "price": "$190,000",
+    "title": "Quaint Cabin by the Lake",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 80
+  },
+  {
+    "id": 16,
+    "price": "$420,000",
+    "title": "Exclusive Duplex in Prime Location",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 280
+  },
+  {
+    "id": 17,
+    "price": "$240,000",
+    "title": "Cosy Chalet with Fireplace",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 160
+  },
+  {
+    "id": 18,
+    "price": "$170,000",
+    "title": "Urban Loft with Industrial Charm",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+  },
+  {
+    "id": 19,
+    "price": "$350,000",
+    "title": "Sleek Apartment with Panoramic Views",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+  },
+  {
+    "id": 20,
+    "price": "$200,000",
+    "title": "Countryside Retreat with Garden",
+    "rooms": 4,
+    "bathrooms": 2,
+    "squareMeters": 200
+  },
+  {
+    "id": 21,
+    "price": "$300,000",
+    "title": "Modern Townhouse with Courtyard",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 22,
+    "price": "$280,000",
+    "title": "Chic Penthouse with Terrace",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 160
+    },
+    
+    {
+    "id": 23,
+    "price": "$420,000",
+    "title": "Luxurious Mansion with Garden",
+    "rooms": 5,
+    "bathrooms": 4,
+    "squareMeters": 400
+    },
+    
+    {
+    "id": 24,
+    "price": "$150,000",
+    "title": "Cozy Cottage in the Woods",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 120
+    },
+    
+    {
+    "id": 25,
+    "price": "$500,000",
+    "title": "Grand Estate with Mountain Views",
+    "rooms": 6,
+    "bathrooms": 5,
+    "squareMeters": 600
+    },
+    
+    {
+    "id": 26,
+    "price": "$190,000",
+    "title": "Rustic Cabin Retreat",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 27,
+    "price": "$380,000",
+    "title": "Modern Villa with Infinity Pool",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 300
+    },
+    
+    {
+    "id": 28,
+    "price": "$220,000",
+    "title": "Seaside Bungalow with Sunset Views",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+    },
+    
+    {
+    "id": 29,
+    "price": "$350,000",
+    "title": "Urban Oasis in the Heart of the City",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 30,
+    "price": "$250,000",
+    "title": "Sunny Condo with Balcony",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 120
+    },
+    
+    {
+    "id": 31,
+    "price": "$280,000",
+    "title": "Charming Cottage with River Views",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 160
+    },
+    
+    {
+    "id": 32,
+    "price": "$420,000",
+    "title": "Exclusive Beachfront Villa",
+    "rooms": 5,
+    "bathrooms": 4,
+    "squareMeters": 400
+    },
+    
+    {
+    "id": 33,
+    "price": "$150,000",
+    "title": "Historic Townhouse with Modern Interiors",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 250
+    },
+    
+    {
+    "id": 34,
+    "price": "$500,000",
+    "title": "Mountain Chalet with Ski-In/Ski-Out Access",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 35,
+    "price": "$190,000",
+    "title": "Cozy Log Cabin with Fireplace",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+    },
+    
+    {
+    "id": 36,
+    "price": "$380,000",
+    "title": "Luxury Penthouse with Cityscape Views",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 200
+    },
+    
+    {
+    "id": 37,
+    "price": "$220,000",
+    "title": "Secluded Cottage Retreat",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 120
+    },
+    
+    {
+    "id": 38,
+    "price": "$350,000",
+    "title": "Modern Loft with Skyline Views",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 39,
+    "price": "$250,000",
+    "title": "Stylish Condo in Trendy Neighborhood",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 140
+    },
+    
+    {
+    "id": 40,
+    "price": "$280,000",
+    "title": "Riverside Retreat with Private Dock",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 41,
+    "price": "$420,000",
+    "title": "Contemporary Beach House with Pool",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 250
+    },
+    
+    {
+    "id": 42,
+    "price": "$150,000",
+    "title": "Quaint Countryside Cottage",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+    },
+    
+    {
+    "id": 43,
+    "price": "$500,000",
+    "title": "Elegant Country Estate",
+    "rooms": 6,
+    "bathrooms": 4,
+    "squareMeters": 500
+    },
+    
+    {
+    "id": 44,
+    "price": "$190,000",
+    "title": "Rustic Log Cabin Retreat",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 45,
+    "price": "$380,000",
+    "title": "Luxury Condo with Panoramic City Views",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 200
+    },
+    
+    {
+    "id": 46,
+    "price": "$220,000",
+    "title": "Charming Seaside Cottage",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 120
+    },
+    
+    {
+    "id": 47,
+    "price": "$350,000",
+    "title": "Modern Urban Loft",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 48,
+    "price": "$250,000",
+    "title": "Sleek City Condo",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 140
+    },
+    
+    {
+    "id": 49,
+    "price": "$280,000",
+    "title": "Riverside Retreat",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 50,
+    "price": "$420,000",
+    "title": "Beachfront Paradise",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 250
+    },
+    
+    {
+    "id": 51,
+    "price": "$150,000",
+    "title": "Cozy Countryside Cottage",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+    },
+    
+    {
+    "id": 52,
+    "price": "$500,000",
+    "title": "Elegant Country Manor",
+    "rooms": 6,
+    "bathrooms": 4,
+    "squareMeters": 500
+    },
+    
+    {
+    "id": 53,
+    "price": "$190,000",
+    "title": "Rustic Log Cabin",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 54,
+    "price": "$380,000",
+    "title": "Luxury City Condo",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 200
+    },
+    
+    {
+    "id": 55,
+    "price": "$220,000",
+    "title": "Seaside Retreat",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 120
+    },
+    
+    {
+    "id": 56,
+    "price": "$350,000",
+    "title": "Urban Loft Living",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 150
+    },
+    
+    {
+    "id": 57,
+    "price": "$250,000",
+    "title": "City Condo",
+    "rooms": 2,
+    "bathrooms": 2,
+    "squareMeters": 140
+    },
+    
+    {
+    "id": 58,
+    "price": "$280,000",
+    "title": "Riverside Sanctuary",
+    "rooms": 3,
+    "bathrooms": 2,
+    "squareMeters": 180
+    },
+    
+    {
+    "id": 59,
+    "price": "$420,000",
+    "title": "Beachfront Bliss",
+    "rooms": 4,
+    "bathrooms": 3,
+    "squareMeters": 250
+    },
+    
+    {
+    "id": 60,
+    "price": "$150,000",
+    "title": "Tranquil Countryside Retreat",
+    "rooms": 2,
+    "bathrooms": 1,
+    "squareMeters": 100
+    }
+]

@@ -1,0 +1,14 @@
+// overwrite theme variables
+
+//quick test
+$primary: red;
+$secondary: green;
+$dark: black;
+$light: white;
+$success: green;
+$info: grey;
+$warning: pink;
+$danger: red;
+
+// import bootstrap styles at the bottom!
+@import './bootstrap/scss/bootstrap.scss';
