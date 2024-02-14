@@ -1,0 +1,17 @@
+-dos idiomas (ingles y español)
+-redes sociales
+-diseño claro y conciso
+-empresa: Inmogo
+-Una web que brinde confianza, con portada que muestre videos o fotografías de alta calidad, foto de perfil de ella, descripción de San Carlos y Costa Rica
+que tenga enlaces a redes sociales (instagram, facebookm contactos)
+-Mostrar propiedades, titulo, informacion, de 10 a 15 fotografias en alta calidad
+-Traduccion automatica
+-Que haya un conteo de cuantas personas ingresan a ver la propiedad
+-Guardado de datos estadísticos (vistas por mes y año)
+-Cada página debe tener un enlace a whatsapp directo con la URL de la propiedad o correo.
+-Blog de noticias importantes
+-Sección de comentarios de clientes, reseña y calificación
+-Cada propiedad con una sección de google maps
+-Sección de likes y favoritos
+-Blog título, enlace, texto, imagen
+-Filtros por casa, lote, propiedad comercial, ventas y renta.
